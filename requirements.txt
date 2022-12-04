@@ -2,6 +2,6 @@
 molecule-docker==2.0.0
 molecule[docker]
 ansible
-ansible-lint
+ansible-lint==6.9.0
 flake8
 testinfra
