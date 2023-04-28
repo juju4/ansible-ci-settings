@@ -1,7 +1,6 @@
-# https://github.com/ansible-community/molecule-docker/issues/184
-molecule-docker==2.0.0
-molecule[docker]
+molecule-plugins
+molecule
 ansible
-ansible-lint==6.9.0
+ansible-lint==6.15.0
 flake8
 testinfra
