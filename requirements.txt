@@ -1,4 +1,5 @@
 molecule-plugins
+docker
 molecule
 ansible
 ansible-lint==6.15.0
