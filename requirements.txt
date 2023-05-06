@@ -1,3 +1,5 @@
+# Workaround for https://github.com/docker/docker-py/issues/3113
+urllib3<2
 molecule-plugins
 docker
 molecule
