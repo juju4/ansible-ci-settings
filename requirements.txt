@@ -5,6 +5,6 @@ docker
 # https://github.com/ansible-community/molecule/issues/3903
 molecule==5.0.1
 ansible
-ansible-lint==6.15.0
+ansible-lint==6.17.2
 flake8
 testinfra
