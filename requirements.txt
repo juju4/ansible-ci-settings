@@ -3,7 +3,8 @@ urllib3<2
 molecule-plugins
 docker
 # https://github.com/ansible-community/molecule/issues/3903
-molecule==5.0.1
+# https://github.com/ansible-community/molecule/pull/3904
+molecule==5.1.0
 ansible
 ansible-lint==6.17.2
 flake8
