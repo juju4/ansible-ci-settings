@@ -1,9 +1,8 @@
-# Workaround for https://github.com/docker/docker-py/issues/3113
-urllib3<2
-molecule-plugins[docker]
+urllib3
+molecule-plugins
 docker
-molecule==6.0.2
-ansible
-ansible-lint==6.20.3
+molecule==24.7.0
+ansible==24.7.0
+ansible-lint==24.7.0
 flake8
 testinfra
