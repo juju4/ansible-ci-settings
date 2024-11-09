@@ -6,3 +6,4 @@ ansible==10.2.0
 ansible-lint==24.7.0
 flake8
 testinfra
+jmespath==1.0.1
