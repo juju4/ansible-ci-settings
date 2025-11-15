@@ -1,7 +1,7 @@
 urllib3
 molecule-plugins
 docker
-molecule==25.2.0
+molecule==25.9.0
 ansible==12.2.0
 ansible-core==2.18.2
 ansible-lint==25.1.2
