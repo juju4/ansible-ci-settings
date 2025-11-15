@@ -3,7 +3,7 @@ molecule-plugins
 docker
 molecule==25.9.0
 ansible==12.2.0
-ansible-core==2.18.2
+ansible-core==2.20.0
 ansible-lint==25.1.2
 flake8
 testinfra
