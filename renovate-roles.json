@@ -18,6 +18,8 @@
       "automerge": true,
       "addLabels": ["automerge"],
       "minimumReleaseAge": "3 days",
+      "prCreation": "not-pending",
+      "internalChecksFilter": "strict",
       "schedule": ["* * * * 5"]
     },
     {
