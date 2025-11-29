@@ -23,6 +23,17 @@
       "schedule": ["* * * * 5"]
     },
     {
+      "description": "Major updates",
+      "matchUpdateTypes": [
+        "major"
+      ],
+      "automerge": false,
+      "minimumReleaseAge": "7 days",
+      "prCreation": "not-pending",
+      "internalChecksFilter": "strict",
+      "schedule": ["* * * * 4"]
+    },
+    {
       "matchManagers": [
         "docker",
         "custom.regex",
