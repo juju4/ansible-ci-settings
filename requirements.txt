@@ -2,7 +2,7 @@ urllib3
 molecule-plugins
 docker
 molecule==25.9.0
-ansible==12.2.0
+ansible==13.0.0
 ansible-lint==25.11.0
 flake8
 testinfra
