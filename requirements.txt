@@ -3,7 +3,7 @@ molecule-plugins
 docker
 molecule==25.12.0
 ansible==12.2.0
-ansible-lint==25.12.0
+ansible-lint==25.12.2
 flake8
 testinfra
 jmespath==1.0.1
