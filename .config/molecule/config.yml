@@ -1,0 +1,4 @@
+---
+provisioner:
+  env:
+    ANSIBLE_INJECT_FACT_VARS: false
