@@ -4,6 +4,6 @@ docker
 flake8
 jmespath==1.1.0
 molecule==26.10.0
-molecule-plugins==26.9.28
+molecule-plugins==26.10.12
 testinfra
 urllib3
