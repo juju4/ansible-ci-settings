@@ -16,7 +16,7 @@
       ],
       "automerge": false,
       "minimumReleaseAge": "3 days",
-      "schedule": ["* * 2,16 * *"]
+      "schedule": ["* * 2 * *"]
     },
     {
       "description": "Major updates",
@@ -27,7 +27,7 @@
       "minimumReleaseAge": "7 days",
       "prCreation": "not-pending",
       "internalChecksFilter": "strict",
-      "schedule": ["* * 3,17 * *"]
+      "schedule": ["* * 3 * *"]
     },
     {
       "matchManagers": [

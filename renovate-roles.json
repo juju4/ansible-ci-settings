@@ -21,7 +21,7 @@
       "prCreation": "not-pending",
       "internalChecksFilter": "strict",
       "mode": "full",
-      "schedule": ["* * 5,21 * *"]
+      "schedule": ["* * 5 * *"]
     },
     {
       "description": "Major updates",
